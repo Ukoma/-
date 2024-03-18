@@ -89,7 +89,7 @@ header nav ul li{
 
 
 header nav ul li:hover{
-  background: url(images/navbar.png)no-repeat center bottom;
+  background: url(https://github.com/Ukoma/-/blob/main/navbar.png?raw=true)no-repeat center bottom;
   height: 36px;
   display: inline-block;
 }
